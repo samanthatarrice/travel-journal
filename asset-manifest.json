@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/travel-journal/static/css/main.ada2ef4d.css",
-    "main.js": "/travel-journal/static/js/main.6d0928bf.js",
+    "main.css": "/travel-journal/static/css/main.2cb81303.css",
+    "main.js": "/travel-journal/static/js/main.5e2b2a62.js",
     "static/js/787.39019643.chunk.js": "/travel-journal/static/js/787.39019643.chunk.js",
+    "static/media/peru.jpeg": "/travel-journal/static/media/peru.ed7d81b999d6c726ad7a.jpeg",
+    "static/media/mexico.jpeg": "/travel-journal/static/media/mexico.058514770ebe69019803.jpeg",
     "static/media/salvador.jpeg": "/travel-journal/static/media/salvador.6d3483e0babba2b498e2.jpeg",
-    "static/media/norway.png": "/travel-journal/static/media/norway.66f23fe47d7c67072d0b.png",
-    "static/media/paris.jpeg": "/travel-journal/static/media/paris.80d3094703baa96ce5b7.jpeg",
+    "static/media/paris.jpeg": "/travel-journal/static/media/paris.5a2920fb3910e4111e6b.jpeg",
     "static/media/patagonia.jpeg": "/travel-journal/static/media/patagonia.2909ec36f93983441ebf.jpeg",
-    "static/media/sydney.png": "/travel-journal/static/media/sydney.71c2305415a602934f1a.png",
     "static/media/travel.png": "/travel-journal/static/media/travel.c4c344918fd6e3a64c8c.png",
-    "static/media/fuji.png": "/travel-journal/static/media/fuji.03979b3a449e51c9fb3b.png",
     "index.html": "/travel-journal/index.html",
-    "main.ada2ef4d.css.map": "/travel-journal/static/css/main.ada2ef4d.css.map",
-    "main.6d0928bf.js.map": "/travel-journal/static/js/main.6d0928bf.js.map",
+    "main.2cb81303.css.map": "/travel-journal/static/css/main.2cb81303.css.map",
+    "main.5e2b2a62.js.map": "/travel-journal/static/js/main.5e2b2a62.js.map",
     "787.39019643.chunk.js.map": "/travel-journal/static/js/787.39019643.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ada2ef4d.css",
-    "static/js/main.6d0928bf.js"
+    "static/css/main.2cb81303.css",
+    "static/js/main.5e2b2a62.js"
   ]
 }
