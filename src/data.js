@@ -2,10 +2,10 @@ export default [
   {
     id: 1,
     image: "patagonia.jpeg",
-    alt: "Sam and her husband in front of Perrito Morreno Glacier",
+    alt: "Sam and her husband in front of Perito Moreno Glacier",
     country: "Argentina",
     googleMapsUrl: "https://goo.gl/maps/NnT9CLpX8AvQCxrJ6",
-    title: "Perrito Morreno Glacier",
+    title: "Perito Moreno Glacier",
     date: "October 2018",
     description: "Visiting Patagonia in Argentina was an amazing trip. We were about a mile away from hiking all the way up Monte Fitz Roy, the mountains you see on the Patagonia company logo. But, we decided not because the conditions were icey and I was five months pregnant. It was still an incredible hike. We also see glaciers up close, and I've never been more freezing in my life. A few times we could see ice melting off, which was exciting, but seeing how far the glaciers had receeded was a real eye opener."
   },
@@ -37,7 +37,7 @@ export default [
     googleMapsUrl: "https://goo.gl/maps/X2qvsYs29V3tVVYe9",
     title: "Boipeba",
     date: "October 2017",
-    description: "To get to Boipeba you have to first, get to Salvador, Bahia. Then, you take a ferry to a town across the bay. From there you find a taxi to drive you to a town an hour away. Then, you have to wait for a speedboat to drive you an hour down the coast. The trip is more than worth it though. I've never experienced such a remote beach getaway like this!"
+    description: "My husband and I moved to Salvador, Brazil in August 2017 to teach at an international school. That became the jumping off place to our other adventures in South America. To get to Boipeba from Salvador, you first need to take a ferry to a small town across the bay. From there you find a taxi to drive you to another small town an hour away. Then, you have to wait for a speedboat to drive you an hour down the coast. The trip is more than worth it though. I've never experienced such beautiful remote beach getaway like this!"
   },
   {
     id: 5,
