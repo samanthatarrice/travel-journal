@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travel-journal/static/css/main.2cb81303.css",
-    "main.js": "/travel-journal/static/js/main.5e2b2a62.js",
+    "main.css": "/travel-journal/static/css/main.e17e4741.css",
+    "main.js": "/travel-journal/static/js/main.a0b65c2e.js",
     "static/js/787.39019643.chunk.js": "/travel-journal/static/js/787.39019643.chunk.js",
     "static/media/peru.jpeg": "/travel-journal/static/media/peru.ed7d81b999d6c726ad7a.jpeg",
     "static/media/mexico.jpeg": "/travel-journal/static/media/mexico.058514770ebe69019803.jpeg",
@@ -10,12 +10,12 @@
     "static/media/patagonia.jpeg": "/travel-journal/static/media/patagonia.2909ec36f93983441ebf.jpeg",
     "static/media/travel.png": "/travel-journal/static/media/travel.c4c344918fd6e3a64c8c.png",
     "index.html": "/travel-journal/index.html",
-    "main.2cb81303.css.map": "/travel-journal/static/css/main.2cb81303.css.map",
-    "main.5e2b2a62.js.map": "/travel-journal/static/js/main.5e2b2a62.js.map",
+    "main.e17e4741.css.map": "/travel-journal/static/css/main.e17e4741.css.map",
+    "main.a0b65c2e.js.map": "/travel-journal/static/js/main.a0b65c2e.js.map",
     "787.39019643.chunk.js.map": "/travel-journal/static/js/787.39019643.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cb81303.css",
-    "static/js/main.5e2b2a62.js"
+    "static/css/main.e17e4741.css",
+    "static/js/main.a0b65c2e.js"
   ]
 }
